@@ -1,0 +1,13 @@
+.profile_card{
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px;
+    padding: 10px;
+    margin-top: 5px;
+   
+}
+
+.activator{
+    height: 200px;
+  width: 50%;
+}
